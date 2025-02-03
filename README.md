@@ -23,3 +23,10 @@
 
 
 #drop database
+
+
+To perform above operations we should download some requirements
+
+
+1.pip install mysql-connector-python   #to install mysql we should use this command
+
